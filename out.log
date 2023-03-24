@@ -1,0 +1,34 @@
+2023-02-28 16:48:59 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-02-28 16:48:59 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2023-02-28 16:48:59 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2023-02-28 16:48:59 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(589) - The session is not set in the property file.
+2023-02-28 16:48:59 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2023-02-28 16:48:59 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2023-02-28 16:48:59 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2023-02-28 16:48:59 INFO  ApacheHttpClient.login(250) - Waiting for server response.
+2023-02-28 16:48:59 INFO  ApacheHttpClient.login(254) - responseCode = 200
+2023-02-28 16:48:59 INFO  ApacheHttpClient.login(277) - JSESSIONID OK
+2023-02-28 16:49:00 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-02-28 16:49:00 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-02-28 16:49:00 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2023-02-28 16:49:07 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-28 16:49:08 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2023-02-28 16:49:16 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/ictgradschool/industry/introtojava/CodeGymTasks/lib
+2023-02-28 16:49:16 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-28 16:49:17 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2023-02-28 16:49:17 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2023-02-28 16:49:17 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/ictgradschool/industry/introtojava/CodeGymTasks/8.Games/src/com
+2023-02-28 16:49:17 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/ictgradschool/industry/introtojava/CodeGymTasks/8.Games/src/com/codegym
+2023-02-28 16:49:17 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/ictgradschool/industry/introtojava/CodeGymTasks/8.Games/src/com/codegym/games
+2023-02-28 16:49:17 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/ictgradschool/industry/introtojava/CodeGymTasks/8.Games/src/com/codegym/games/snake
+2023-03-24 14:24:45 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2023-03-24 14:24:45 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.03 ----------
+
+2023-03-24 14:24:45 INFO  ProjectStartupHandler.setAutoscrolls(346) - Autoscrolls successfully set
+2023-03-24 14:24:45 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-03-24 14:24:46 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-03-24 14:24:46 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2023-03-24 14:24:46 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2023-03-24 14:24:46 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2023-03-24 14:24:46 INFO  ApacheHttpClient.startGA(36) - GAService started.
